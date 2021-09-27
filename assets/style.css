@@ -158,3 +158,8 @@ footer h2 {
         width: 100%;
       }
 }
+
+#project-link {
+    color: rgb(85, 141, 238);
+    text-decoration: underline;
+}

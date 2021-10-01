@@ -168,3 +168,7 @@ footer h2 {
 img {
     border-radius: 5px;
 }
+
+footer {
+    text-align: center;
+}

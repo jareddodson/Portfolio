@@ -74,6 +74,7 @@ body {
     background-color: #0e2b4d;
     color: #fcbeac;
     border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
 }
 
 h2 {
@@ -93,7 +94,6 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0e2b4d;
     color: #fcbeac;
-    border-top-right-radius: 60px;
 }
 
 .my-work img {
@@ -114,7 +114,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0e2b4d;
     color: #fcbeac;
-    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
 }
 
 .contact-info img {

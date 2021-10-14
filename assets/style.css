@@ -173,3 +173,11 @@ img {
 footer {
     text-align: center;
 }
+
+#linkedin {
+    text-decoration: underline;
+}
+
+#github {
+    text-decoration: underline;
+}

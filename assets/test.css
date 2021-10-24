@@ -15,6 +15,37 @@ body {
     letter-spacing: .15em;
     animation: typing 3.5s steps(30, end), 
     blink-caret 1s step-end infinite;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .typewriter h1 {
+        font-size: 11px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .typewriter h1 {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .typewriter h1 {
+        font-size: 22px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .typewriter h1 {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .typewriter h1 {
+        font-size: 36px;
+    }
 }
 
 @keyframes typing {
@@ -43,3 +74,4 @@ body {
 .jared h5 {
     font-family: monospace;
 }
+

@@ -1,0 +1,16 @@
+#nav {
+    background-color: black;
+    height: 80px;
+}
+
+.nav-link {
+    color: white;
+    padding-top: 26px;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 90%;
+}
+
+.nav-link:hover {
+    color: gold;
+}

@@ -5,3 +5,7 @@
 #card-links {
     font-weight: bolder;
 }
+
+.navbar-brand {
+    margin-left: 30px;
+}
